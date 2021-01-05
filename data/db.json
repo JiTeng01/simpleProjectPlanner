@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Updated",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create marketing and account email",
+      "details": "For marketing department purpose and to send email",
+      "complete": true
+    },
+    {
+      "title": "Commit project",
+      "details": "First commit",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
